@@ -1,0 +1,30 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-family: system-ui;
+    color: white;
+    margin: auto;
+    font-weight: 500;
+}
+
+.title{
+    background: rgb(236, 50, 50);
+    padding: 5px 0;
+    margin: 5px 0;
+
+}
+span{
+    color: #fde400;
+}
+.squer{
+    width: 80px;
+    height: 80px;
+    background: #cf050f;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+.squer:hover{
+    background: #000;
+    cursor: pointer;
+}
